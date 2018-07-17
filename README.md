@@ -36,6 +36,7 @@ In addition to main analysis, we also provide assistant functions:
 
 All the functions are used as: 
 
- java –Xmx2g –jar /path/to/jawamix5.jar function <options>
-
+```
+java –Xmx2g –jar /path/to/jawamix5.jar function <options>
+```
 The details of the options of each function can be found in the detailed users manual.

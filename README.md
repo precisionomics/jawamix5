@@ -1,4 +1,4 @@
-# jawamix5
+# Jawamix5
 JAWAMix5 stands for HDF5-based JAva implementation of Whole genome Association studies using Mixed model. The motivation of developing JAWAMix5 is to provide a platform-independent toolkit for mixed model-based association mapping that is scalable for very large dataset. It also supports simulation-based power estimations We intend to offer long-term maintenance for JAWAMix5 and continue adding our new developments into it.
 
 
